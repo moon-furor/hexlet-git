@@ -1,1 +1,1 @@
-any string
+Hello, World!
